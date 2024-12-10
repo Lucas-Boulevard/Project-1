@@ -1,0 +1,54 @@
+body{
+    background-color: #f2f2f2;
+    font-family: "Lexend Deca", sans-serif;
+    color: white;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    margin-top: 5em;
+}
+
+article{
+    width: 12%;
+    padding: 3em;
+}
+
+.article1{
+    background-color: #e28525;
+}
+
+.article2{
+    background-color: #016972;
+}
+
+.article3{
+    background-color: #00403f;
+}
+
+h1{
+    margin-top: 1em;
+}
+
+p{
+    margin-top: 2em;
+    margin-bottom: 5.5em;
+}
+
+a{
+    color: #e28525;
+    text-decoration: none;
+    background-color: white;
+    border-radius: 2em;
+    padding: 1em 2em;
+}
+
+.a2{
+    color: #016972;
+}
+
+.a3{
+    color: #00403f;
+}
+
